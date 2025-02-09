@@ -11,7 +11,7 @@ Features
 
 Project Structure
 
-
+text
 .
 ├── data/                 # Audio datasets for training and evaluation
 ├── models/               # Definitions of deep learning architectures (CNN, RNN, LSTM, Transformer)
@@ -23,7 +23,7 @@ Project Structure
 
 Installation
 
-    Clone the Repository:
+Clone the Repository:
 
 text
 git clone https://github.com/yourusername/your-project.git
@@ -35,7 +35,3 @@ text
 python -m venv venv
 source venv/bin/activate   # On Windows, use: venv\Scripts\activate
 
-Install Dependencies:
-
-text
-pip install -r requirements.txt
