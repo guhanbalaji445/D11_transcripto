@@ -1,0 +1,1 @@
+Hey Mentors, The first-week assignment was excellent! I had been wanting to explore Pandas and NumPy on my own at least once, so this was a great opportunity. I did run into some issues with handling unknown data in Pandas, but with your help, I managed to figure it out. Excited for the next assignment!
