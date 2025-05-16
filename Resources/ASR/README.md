@@ -19,7 +19,7 @@ Please follow the materials in the order below for a structured learning experie
     *   **Purpose:** This Jupyter Notebook provides a hands-on, practical example of fine-tuning an ASR model. You'll see the concepts from `asrbuild.md` put into action with actual code.
     *   **Focus:** Practical implementation and coding.
 
-4.  ❓ **`understanding-asrfinetune`** (e.g., `understanding-asrfinetune.md` or another notebook)
+4.  ❓ **`understanding-asrfinetune.md`** 
     *   **Purpose:** If you encounter difficulties understanding the code or concepts within `asrfinetune.ipynb`, refer to this file. It likely contains more detailed explanations, common pitfalls, or a breakdown of complex sections.
     *   **Focus:** Deeper dive and troubleshooting for the practical example.
 
